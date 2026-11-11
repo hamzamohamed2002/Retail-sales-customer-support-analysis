@@ -20,7 +20,7 @@ Main problems fixed:
 - Negative resolution times
 - Blank and duplicate rows
 
-All 31 cleaning steps are documented in the Cleaning Logs sheet.
+The full cleaning log is in cleaning_log.xlsx.
 
 Verification: net revenue by country and net revenue by category give the same total (2,554,354), and no ticket is left without a matching order.
 
